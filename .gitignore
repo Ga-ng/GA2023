@@ -1,0 +1,6 @@
+data/
+semantic-segmentation-pytorch-master/
+
+
+nohup.out
+*.jpg
