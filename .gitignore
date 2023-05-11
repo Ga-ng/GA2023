@@ -1,6 +1,6 @@
 data/
 semantic-segmentation-pytorch-master/
-
+HRNet-Semantic-Segmentation-HRNet-OCR/
 
 nohup.out
 *.jpg
